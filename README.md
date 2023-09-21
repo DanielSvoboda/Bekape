@@ -21,7 +21,7 @@ Bekape also has a console that you can use to view what new files and modified f
 ---------  
   <br>
   •Microsoft.WindowsAPICodePack-Core <br>
-  https://www.nuget.org/packages/Microsoft.WindowsAPICodePack-Core/1.1.0.2
+  https://www.nuget.org/packages/WindowsAPICodePack-Core/1.1.2
   <br><br>
   •Costura.Fody <br>
   https://www.nuget.org/packages/Costura.Fody
